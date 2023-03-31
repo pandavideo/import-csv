@@ -1,21 +1,21 @@
 # PANDA IMPORT CSV
 
 ## Usage:
-Instalar pacotes necessários:
+Install required packages:
 ```sh
 npm install
 ```
 
-Popular arquivo `.env` com base no `.env.example`
+Populate `.env` file based on `.env.example`
 
-Para importar os vídeos:
+To import the videos:
 ```sh
 node upload.js
 ```
-Para verificar os imports:
+To check the imports
 ```sh
 node verify.js
 ```
 
-> **ATENÇÃO:** verificar se campos do CSV são correspondentes e mudar caso necessário
+> **ATTENTION:** check if the CSV fields match and change if necessary
 >
